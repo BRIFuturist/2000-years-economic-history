@@ -8,6 +8,8 @@ This data visualization experiment was inspired by a [graph titled "2,000 Years 
 
 Additionally, the graph has been updated to include 2021 GDP (PPP) data. Feel free to update and disseminate it as new data becomes available.
 
+This repository includes a Jupyter notebook file, the excel database file (source: https://www.rug.nl/ggdc/historicaldevelopment/maddison/releases/maddison-database-2010), and two image files containing the output of the code.
+
 Any questions and comments may be directed to the original author on Twitter ([@BRIFuturist](\https://twitter.com/BRIFuturist))
 
 ## Getting Started
@@ -22,10 +24,7 @@ Any questions and comments may be directed to the original author on Twitter ([@
 * Seaborn
 * Numpy
 
-
 ## Authors
-
-Contributors names and contact info
 
 * [@BRIFuturist](https://twitter.com/BRIFuturist)
 
