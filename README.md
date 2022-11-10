@@ -1,4 +1,4 @@
-# 2000 Years of Economic History
+# 2000 Years of Economic History Visualized
 
 A Jupyter notebook visualizing the relative GDP and population data between 11 major world powers from 1 - 2021 AD.
 
