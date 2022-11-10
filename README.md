@@ -14,8 +14,8 @@ Any questions and comments may be directed to the original author on Twitter ([@
 
 ## Output
 
-[relative-population-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_population_1-2000.png)
-[relative-gdp-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_gdp_1-2000.png)
+![relative-population-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_population_1-2000.png)
+![relative-gdp-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_gdp_1-2000.png)
 
 ## Getting Started
 
