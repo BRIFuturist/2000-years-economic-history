@@ -12,6 +12,11 @@ This repository includes a Jupyter notebook file, the excel database file (sourc
 
 Any questions and comments may be directed to the original author on Twitter ([@BRIFuturist](\https://twitter.com/BRIFuturist))
 
+## Output
+
+[relative-population-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_population_1-2000.png)
+[relative-gdp-1_2021](\https://github.com/BRIFuturist/2000-years-economic-history/blob/main/relative_gdp_1-2000.png)
+
 ## Getting Started
 
 ### Dependencies
